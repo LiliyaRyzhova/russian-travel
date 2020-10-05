@@ -11,6 +11,6 @@ margin:0;
     .place__block {
         flex-wrap: wrap;
         justify-content: center;
-        max-width: 100%x;
+        max-width: 100%;
     }
 }
