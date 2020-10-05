@@ -1,0 +1,14 @@
+.footer__autor {
+    font-size: 14px;
+    line-height: 1.14;
+    margin:0;
+    padding:0;
+    align-self: center;
+
+}
+
+@media screen and (max-width: 767px) {
+    .footer__autor{
+     align-self: flex-start;
+    }
+}

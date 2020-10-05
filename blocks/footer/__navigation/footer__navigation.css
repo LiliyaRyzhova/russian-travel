@@ -1,0 +1,19 @@
+.footer__navigation {
+  margin:0;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+  max-width: 100%;
+}
+
+@media screen and (max-width: 767px) {
+  .footer__navigation {
+    align-items: flex-start;
+    width: 158px;
+    height: 248px;
+    margin:0;
+    margin-bottom: 48px;
+ 
+  }
+}
+
