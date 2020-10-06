@@ -9,6 +9,6 @@
 
 @media screen and (max-width: 767px) {
     .footer__autor{
-     align-self: flex-start;
+       align-self: flex-start;
     }
 }
