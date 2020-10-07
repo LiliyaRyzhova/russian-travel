@@ -1,13 +1,12 @@
 .place__paragraphs {
-    align-self: flex-start;
-    margin:0;
-    padding-bottom:0;
-
+  align-self: flex-start;
+  margin:0;
+  padding-bottom:0;
 }
 
 @media screen and (max-width: 767px) {
-    .place__paragraphs {
-        margin-top: 32px;
-    }
+  .place__paragraphs {
+    margin-top: 32px;
+  }
 }
 

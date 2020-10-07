@@ -1,25 +1,23 @@
 .footer__link {
-    text-decoration: none;
-    color: #FFFFFF;
-    font-size: 16px;
-    line-height: 1.3;
-    font-weight: 400;
-    margin:0;
-    padding:0;
-    margin-right: 18px;
-    transform: opacity;
-    transition: opacity .5s ease-in-out;
-
-
+  text-decoration: none;
+  color: #FFFFFF;
+  font-size: 16px;
+  line-height: 1.3;
+  font-weight: 400;
+  margin:0;
+  padding:0;
+  margin-right: 18px;
+  transform: opacity;
+  transition: opacity .5s ease-in-out;
 }
 
 .footer__link:hover {
-    opacity: 80%;
+  opacity: 80%;
 }
 
 @media screen and (max-width: 767px) {
-    .footer__link {
-        max-width: 100%;
-        font-size: 24px;
-    }
+  .footer__link {
+    max-width: 100%;
+    font-size: 24px;
   }
+}

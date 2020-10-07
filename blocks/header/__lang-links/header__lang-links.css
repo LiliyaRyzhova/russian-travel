@@ -1,14 +1,13 @@
 .header__lang-links {
-    display: flex;
-    width: 77px;
-    justify-content: space-between;
-    align-items: flex-end;
-    margin:0;
-     
+  display: flex;
+  width: 77px;
+  justify-content: space-between;
+  align-items: flex-end;
+  margin:0;
 }
 
 @media screen and (max-width: 767px) {
-    .header__lang-links {
-        width: 62px;
-    }
+  .header__lang-links {
+    width: 62px;
+  }
 }
